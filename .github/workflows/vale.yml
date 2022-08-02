@@ -24,7 +24,7 @@ jobs:
     - name: Vale
       uses: errata-ai/vale-action@v2
       with:
-        files: '["docs", "src", "README.md", "CODE_OF_CONDUCT.md", "CONTRIBUTING.md"]'
+        files: '["src", "README.md"]'
         fail_on_error: true
       env:
         # Required
