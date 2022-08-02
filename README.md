@@ -2,7 +2,7 @@
 
 # Netlify Feature Tour
 
-**Access this demo site**: https://feature-tour.netlify.app
+**Access this demo site**: [click here](https://feature-tour.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fad6792e-1c44-44db-bd79-ea74b42b0f89/deploy-status)](https://app.netlify.com/sites/feature-tour/deploys)
 
@@ -14,7 +14,7 @@ This site provides a path to get started learning about Netlify features.
 
 ## Speedily deploy your own version
 
-Deploy your own version of this example site by selecting the Deploy to Netlify Button below. This will automatically:
+Deploy your your own version of this exaample "site" by selecting the Deploy to Netlify Button below. This will automatically:
 
 - Clone a copy of this repo to your own GitHub account
 - Create a new project in your [Netlify account](https://app.netlify.com/?utm_medium=social&utm_source=github&utm_campaign=devex&utm_content=devex-examples), linked to your new repo
