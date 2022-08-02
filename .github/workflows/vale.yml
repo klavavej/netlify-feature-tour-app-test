@@ -15,11 +15,11 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-   - name: Download styles
-     run: |
-       curl -s https://vale-library.netlify.app/styles.zip -o styles.zip
-       unzip styles.zip -d .github/styles
-       rm styles.zip
+    - name: Download styles
+      run: |
+        curl -s https://vale-library.netlify.app/styles.zip -o styles.zip
+        unzip styles.zip -d .github/styles
+        rm styles.zip
 
     - name: Vale
       uses: errata-ai/vale-action@v2
