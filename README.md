@@ -2,7 +2,7 @@
 
 # Netlify Feature Tour
 
-**Access this "demo" site**: [click here](https://feature-tour.netlify.app)
+**Access this this "demo" site**: [click here](https://feature-tour.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/fad6792e-1c44-44db-bd79-ea74b42b0f89/deploy-status)](https://app.netlify.com/sites/feature-tour/deploys)
 
